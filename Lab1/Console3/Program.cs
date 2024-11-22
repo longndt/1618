@@ -16,7 +16,7 @@ if (grade >= 5.0)
  * Pass : 5 - 8
  * Refer : 0 - 5
  */
-double gpa = 12;
+double gpa = 8.5;
 if (gpa >= 9 && gpa <= 10)
     Console.WriteLine("Distinction");
 else if (gpa >= 8 && gpa < 9)

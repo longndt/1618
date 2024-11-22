@@ -1,0 +1,15 @@
+D:\workspace\FGW-1618\1618-re2-fa24\Lab2\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.exe
+D:\workspace\FGW-1618\1618-re2-fa24\Lab2\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.deps.json
+D:\workspace\FGW-1618\1618-re2-fa24\Lab2\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.runtimeconfig.json
+D:\workspace\FGW-1618\1618-re2-fa24\Lab2\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.dll
+D:\workspace\FGW-1618\1618-re2-fa24\Lab2\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.pdb
+D:\workspace\FGW-1618\1618-re2-fa24\Lab2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\FGW-1618\1618-re2-fa24\Lab2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\workspace\FGW-1618\1618-re2-fa24\Lab2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfo.cs
+D:\workspace\FGW-1618\1618-re2-fa24\Lab2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-1618\1618-re2-fa24\Lab2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.sourcelink.json
+D:\workspace\FGW-1618\1618-re2-fa24\Lab2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.dll
+D:\workspace\FGW-1618\1618-re2-fa24\Lab2\ConsoleApp2\obj\Debug\net9.0\refint\ConsoleApp2.dll
+D:\workspace\FGW-1618\1618-re2-fa24\Lab2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.pdb
+D:\workspace\FGW-1618\1618-re2-fa24\Lab2\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.genruntimeconfig.cache
+D:\workspace\FGW-1618\1618-re2-fa24\Lab2\ConsoleApp2\obj\Debug\net9.0\ref\ConsoleApp2.dll
