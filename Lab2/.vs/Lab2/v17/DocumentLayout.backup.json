@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\workspace\\FGW-1618\\1618-re2-fa24\\Lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9246871-7BD3-4B23-A574-0C83235747B9}|ConsoleApp3\\ConsoleApp3.csproj|d:\\workspace\\fgw-1618\\1618-re2-fa24\\lab2\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9246871-7BD3-4B23-A574-0C83235747B9}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA710C27-13AB-41B2-AFB4-263B218B5A9F}|ConsoleApp2\\ConsoleApp2.csproj|d:\\workspace\\fgw-1618\\1618-re2-fa24\\lab2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA710C27-13AB-41B2-AFB4-263B218B5A9F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEDF0A5B-7633-4F44-A1D3-7FE415E1CED7}|ConsoleApp7\\ConsoleApp7.csproj|d:\\workspace\\fgw-1618\\1618-re2-fa24\\lab2\\consoleapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEDF0A5B-7633-4F44-A1D3-7FE415E1CED7}|ConsoleApp7\\ConsoleApp7.csproj|solutionrelative:consoleapp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,26 +32,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618-re2-fa24\\Lab2\\ConsoleApp3\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
-              "ToolTip": "D:\\workspace\\FGW-1618\\1618-re2-fa24\\Lab2\\ConsoleApp3\\Program.cs",
-              "RelativeToolTip": "ConsoleApp3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618-re2-fa24\\Lab2\\ConsoleApp7\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp7\\Program.cs",
+              "ToolTip": "D:\\workspace\\FGW-1618\\1618-re2-fa24\\Lab2\\ConsoleApp7\\Program.cs",
+              "RelativeToolTip": "ConsoleApp7\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T03:46:16.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618-re2-fa24\\Lab2\\ConsoleApp2\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
-              "ToolTip": "D:\\workspace\\FGW-1618\\1618-re2-fa24\\Lab2\\ConsoleApp2\\Program.cs",
-              "RelativeToolTip": "ConsoleApp2\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAADwvy8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T03:36:55.067Z",
+              "WhenOpened": "2024-11-22T04:40:39.301Z",
               "EditorCaption": ""
             }
           ]
