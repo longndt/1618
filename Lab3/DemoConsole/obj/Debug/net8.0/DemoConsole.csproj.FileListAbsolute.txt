@@ -1,0 +1,15 @@
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\DemoConsole\bin\Debug\net8.0\DemoConsole.exe
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\DemoConsole\bin\Debug\net8.0\DemoConsole.deps.json
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\DemoConsole\bin\Debug\net8.0\DemoConsole.runtimeconfig.json
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\DemoConsole\bin\Debug\net8.0\DemoConsole.dll
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\DemoConsole\bin\Debug\net8.0\DemoConsole.pdb
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\DemoConsole\obj\Debug\net8.0\DemoConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\DemoConsole\obj\Debug\net8.0\DemoConsole.AssemblyInfoInputs.cache
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\DemoConsole\obj\Debug\net8.0\DemoConsole.AssemblyInfo.cs
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\DemoConsole\obj\Debug\net8.0\DemoConsole.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\DemoConsole\obj\Debug\net8.0\DemoConsole.sourcelink.json
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\DemoConsole\obj\Debug\net8.0\DemoConsole.dll
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\DemoConsole\obj\Debug\net8.0\refint\DemoConsole.dll
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\DemoConsole\obj\Debug\net8.0\DemoConsole.pdb
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\DemoConsole\obj\Debug\net8.0\DemoConsole.genruntimeconfig.cache
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\DemoConsole\obj\Debug\net8.0\ref\DemoConsole.dll

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\FGW-1618\\1618-re2-fa24\\Lab3\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "D:\\workspace\\FGW-1618\\1618-re2-fa24\\Lab3\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\workspace\\FGW-1618\\1618-re2-fa24\\Lab3\\ConsoleApp1\\FunctionDemo.csproj",
+      "projectName": "FunctionDemo",
+      "projectPath": "D:\\workspace\\FGW-1618\\1618-re2-fa24\\Lab3\\ConsoleApp1\\FunctionDemo.csproj",
       "packagesPath": "C:\\Users\\longn\\.nuget\\packages\\",
       "outputPath": "D:\\workspace\\FGW-1618\\1618-re2-fa24\\Lab3\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
