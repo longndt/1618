@@ -1,0 +1,15 @@
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\OOP\bin\Debug\net8.0\OOP.exe
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\OOP\bin\Debug\net8.0\OOP.deps.json
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\OOP\bin\Debug\net8.0\OOP.dll
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\OOP\bin\Debug\net8.0\OOP.pdb
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\OOP\obj\Debug\net8.0\OOP.sourcelink.json
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\OOP\obj\Debug\net8.0\OOP.dll
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\OOP\obj\Debug\net8.0\refint\OOP.dll
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\OOP\obj\Debug\net8.0\OOP.pdb
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+D:\workspace\FGW-1618\1618-re2-fa24\Lab3\OOP\obj\Debug\net8.0\ref\OOP.dll
