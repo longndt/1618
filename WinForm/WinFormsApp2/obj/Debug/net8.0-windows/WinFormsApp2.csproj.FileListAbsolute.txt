@@ -1,0 +1,17 @@
+D:\workspace\FGW-1618\1618\WinForm\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+D:\workspace\FGW-1618\1618\WinForm\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+D:\workspace\FGW-1618\1618\WinForm\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+D:\workspace\FGW-1618\1618\WinForm\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+D:\workspace\FGW-1618\1618\WinForm\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+D:\workspace\FGW-1618\1618\WinForm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+D:\workspace\FGW-1618\1618\WinForm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+D:\workspace\FGW-1618\1618\WinForm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\FGW-1618\1618\WinForm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+D:\workspace\FGW-1618\1618\WinForm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+D:\workspace\FGW-1618\1618\WinForm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-1618\1618\WinForm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.sourcelink.json
+D:\workspace\FGW-1618\1618\WinForm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+D:\workspace\FGW-1618\1618\WinForm\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+D:\workspace\FGW-1618\1618\WinForm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+D:\workspace\FGW-1618\1618\WinForm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+D:\workspace\FGW-1618\1618\WinForm\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
