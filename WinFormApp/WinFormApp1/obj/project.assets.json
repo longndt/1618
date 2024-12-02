@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\FGW-1618\\1618\\WinForm\\WinFormApp1\\WinFormApp1.csproj",
+      "projectUniqueName": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp1\\WinFormApp1.csproj",
       "projectName": "WinFormApp1",
-      "projectPath": "D:\\workspace\\FGW-1618\\1618\\WinForm\\WinFormApp1\\WinFormApp1.csproj",
+      "projectPath": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp1\\WinFormApp1.csproj",
       "packagesPath": "C:\\Users\\longn\\.nuget\\packages\\",
-      "outputPath": "D:\\workspace\\FGW-1618\\1618\\WinForm\\WinFormApp1\\obj\\",
+      "outputPath": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
