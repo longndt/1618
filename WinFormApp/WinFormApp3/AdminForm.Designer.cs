@@ -1,6 +1,6 @@
 ﻿namespace WinForm3
 {
-    partial class Form1
+    partial class AdminForm
     {
         /// <summary>
         ///  Required designer variable.
@@ -52,6 +52,7 @@
             cbGraduated = new CheckBox();
             label12 = new Label();
             tbGraduated_Output = new TextBox();
+            btnLogout = new Button();
             SuspendLayout();
             // 
             // label1
@@ -309,11 +310,25 @@
             tbGraduated_Output.Size = new Size(272, 31);
             tbGraduated_Output.TabIndex = 23;
             // 
-            // Form1
+            // btnLogout
+            // 
+            btnLogout.BackColor = Color.FromArgb(192, 255, 255);
+            btnLogout.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnLogout.ForeColor = Color.FromArgb(0, 64, 0);
+            btnLogout.Location = new Point(906, 565);
+            btnLogout.Name = "btnLogout";
+            btnLogout.Size = new Size(112, 55);
+            btnLogout.TabIndex = 24;
+            btnLogout.Text = "Logout";
+            btnLogout.UseVisualStyleBackColor = false;
+            btnLogout.Click += btnLogout_Click;
+            // 
+            // AdminForm
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1146, 654);
+            Controls.Add(btnLogout);
             Controls.Add(tbGraduated_Output);
             Controls.Add(label12);
             Controls.Add(cbGraduated);
@@ -339,8 +354,8 @@
             Controls.Add(label2);
             Controls.Add(label1);
             FormBorderStyle = FormBorderStyle.FixedSingle;
-            Name = "Form1";
-            Text = "Student Info";
+            Name = "AdminForm";
+            Text = "Admin Form";
             Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
@@ -372,5 +387,6 @@
         private CheckBox cbGraduated;
         private Label label12;
         private TextBox tbGraduated_Output;
+        private Button btnLogout;
     }
 }
