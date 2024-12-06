@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\FGW\\7388\\StaffManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8883D7E0-96DA-4997-B715-3FEDE69C7BC6}|StaffManagement.csproj|d:\\workspace\\fgw\\7388\\staffmanagement\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8883D7E0-96DA-4997-B715-3FEDE69C7BC6}|StaffManagement.csproj|solutionrelative:staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8883D7E0-96DA-4997-B715-3FEDE69C7BC6}|StaffManagement.csproj|d:\\workspace\\fgw\\7388\\staffmanagement\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8883D7E0-96DA-4997-B715-3FEDE69C7BC6}|StaffManagement.csproj|solutionrelative:nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 262,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffManagement.cs [Design]",
+              "DocumentMoniker": "D:\\workspace\\FGW\\7388\\StaffManagement\\StaffManagement.cs",
+              "RelativeDocumentMoniker": "StaffManagement.cs",
+              "ToolTip": "D:\\workspace\\FGW\\7388\\StaffManagement\\StaffManagement.cs [Design]",
+              "RelativeToolTip": "StaffManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T02:18:06.494Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW\\7388\\StaffManagement\\NhanVien.cs",
+              "RelativeDocumentMoniker": "NhanVien.cs",
+              "ToolTip": "D:\\workspace\\FGW\\7388\\StaffManagement\\NhanVien.cs",
+              "RelativeToolTip": "NhanVien.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T02:18:00.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

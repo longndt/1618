@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F567A976-D107-48D7-B423-73ED9127F3E4}|WinFormApp3\\WinFormApp3.csproj|d:\\workspace\\fgw-1618\\1618\\winformapp\\winformapp3\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F567A976-D107-48D7-B423-73ED9127F3E4}|WinFormApp3\\WinFormApp3.csproj|solutionrelative:winformapp3\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8883D7E0-96DA-4997-B715-3FEDE69C7BC6}|WinFormApp4\\WinFormApp4.csproj|d:\\workspace\\fgw-1618\\1618\\winformapp\\winformapp4\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8883D7E0-96DA-4997-B715-3FEDE69C7BC6}|WinFormApp4\\WinFormApp4.csproj|solutionrelative:winformapp4\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F567A976-D107-48D7-B423-73ED9127F3E4}|WinFormApp3\\WinFormApp3.csproj|d:\\workspace\\fgw-1618\\1618\\winformapp\\winformapp3\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F567A976-D107-48D7-B423-73ED9127F3E4}|WinFormApp3\\WinFormApp3.csproj|solutionrelative:winformapp3\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8883D7E0-96DA-4997-B715-3FEDE69C7BC6}|WinFormApp4\\WinFormApp4.csproj|D:\\workspace\\FGW-1618\\1618\\WinFormApp\\winformapp4\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8883D7E0-96DA-4997-B715-3FEDE69C7BC6}|WinFormApp4\\WinFormApp4.csproj|solutionrelative:winformapp4\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F567A976-D107-48D7-B423-73ED9127F3E4}|WinFormApp3\\WinFormApp3.csproj|d:\\workspace\\fgw-1618\\1618\\winformapp\\winformapp3\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F567A976-D107-48D7-B423-73ED9127F3E4}|WinFormApp3\\WinFormApp3.csproj|solutionrelative:winformapp3\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C964E5BA-255E-42DA-9A89-17E29D052971}|WinFormApp3\\WinFormApp3.csproj|D:\\workspace\\FGW-1618\\1618\\WinFormApp\\winformapp3\\formnhakhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C964E5BA-255E-42DA-9A89-17E29D052971}|WinFormApp3\\WinFormApp3.csproj|solutionrelative:winformapp3\\formnhakhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F567A976-D107-48D7-B423-73ED9127F3E4}|WinFormApp3\\WinFormApp3.csproj|d:\\workspace\\fgw-1618\\1618\\winformapp\\winformapp3\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F567A976-D107-48D7-B423-73ED9127F3E4}|WinFormApp3\\WinFormApp3.csproj|solutionrelative:winformapp3\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C964E5BA-255E-42DA-9A89-17E29D052971}|WinFormApp3\\WinFormApp3.csproj|d:\\workspace\\fgw-1618\\1618\\winformapp\\winformapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C964E5BA-255E-42DA-9A89-17E29D052971}|WinFormApp3\\WinFormApp3.csproj|solutionrelative:winformapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F567A976-D107-48D7-B423-73ED9127F3E4}|WinFormApp3\\WinFormApp3.csproj|d:\\workspace\\fgw-1618\\1618\\winformapp\\winformapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F567A976-D107-48D7-B423-73ED9127F3E4}|WinFormApp3\\WinFormApp3.csproj|solutionrelative:winformapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{126F2DE9-F496-4C1D-9D54-197D05CA2764}|WinFormApp2\\WinFormApp2.csproj|D:\\workspace\\FGW-1618\\1618\\WinFormApp\\winformapp2\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{126F2DE9-F496-4C1D-9D54-197D05CA2764}|WinFormApp2\\WinFormApp2.csproj|solutionrelative:winformapp2\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C964E5BA-255E-42DA-9A89-17E29D052971}|WinFormApp3\\WinFormApp3.csproj|d:\\workspace\\fgw-1618\\1618\\winformapp\\winformapp3\\formnhakhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C964E5BA-255E-42DA-9A89-17E29D052971}|WinFormApp3\\WinFormApp3.csproj|solutionrelative:winformapp3\\formnhakhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 691,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,66 +46,75 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminForm.cs",
-              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp3\\AdminForm.cs",
-              "RelativeDocumentMoniker": "WinFormApp3\\AdminForm.cs",
-              "ToolTip": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp3\\AdminForm.cs",
-              "RelativeToolTip": "WinFormApp3\\AdminForm.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAtwEEAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FormNhanVien.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp4\\FormNhanVien.cs",
+              "RelativeDocumentMoniker": "WinFormApp4\\FormNhanVien.cs",
+              "ToolTip": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp4\\FormNhanVien.cs",
+              "RelativeToolTip": "WinFormApp4\\FormNhanVien.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T02:36:04.174Z",
+              "WhenOpened": "2024-12-06T03:28:06.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdminForm.cs [Design]",
-              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp3\\AdminForm.cs",
-              "RelativeDocumentMoniker": "WinFormApp3\\AdminForm.cs",
-              "ToolTip": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp3\\AdminForm.cs [Design]",
-              "RelativeToolTip": "WinFormApp3\\AdminForm.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "FormNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp4\\FormNhanVien.cs",
+              "RelativeDocumentMoniker": "WinFormApp4\\FormNhanVien.cs",
+              "ToolTip": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp4\\FormNhanVien.cs [Design]",
+              "RelativeToolTip": "WinFormApp4\\FormNhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T02:34:02.953Z",
+              "WhenOpened": "2024-12-06T03:06:29.154Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp3\\LoginForm.cs",
-              "RelativeDocumentMoniker": "WinFormApp3\\LoginForm.cs",
-              "ToolTip": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp3\\LoginForm.cs [Design]",
-              "RelativeToolTip": "WinFormApp3\\LoginForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T02:23:18.887Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp3\\LoginForm.cs",
-              "RelativeDocumentMoniker": "WinFormApp3\\LoginForm.cs",
-              "ToolTip": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp3\\LoginForm.cs",
-              "RelativeToolTip": "WinFormApp3\\LoginForm.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T02:20:52.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp3\\Program.cs",
               "RelativeDocumentMoniker": "WinFormApp3\\Program.cs",
               "ToolTip": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp3\\Program.cs",
               "RelativeToolTip": "WinFormApp3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T02:19:49.845Z",
+              "WhenOpened": "2024-12-06T03:04:45.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp2\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WinFormApp2\\LoginForm.cs",
+              "ToolTip": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp2\\LoginForm.cs [Design]",
+              "RelativeToolTip": "WinFormApp2\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:04:43.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormNhaKhoa.cs",
+              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp3\\FormNhaKhoa.cs",
+              "RelativeDocumentMoniker": "WinFormApp3\\FormNhaKhoa.cs",
+              "ToolTip": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp3\\FormNhaKhoa.cs",
+              "RelativeToolTip": "WinFormApp3\\FormNhaKhoa.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA2wDcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:58:38.361Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormNhaKhoa.cs [Design]",
+              "DocumentMoniker": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp3\\FormNhaKhoa.cs",
+              "RelativeDocumentMoniker": "WinFormApp3\\FormNhaKhoa.cs",
+              "ToolTip": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp3\\FormNhaKhoa.cs [Design]",
+              "RelativeToolTip": "WinFormApp3\\FormNhaKhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:58:33.057Z"
             }
           ]
         }

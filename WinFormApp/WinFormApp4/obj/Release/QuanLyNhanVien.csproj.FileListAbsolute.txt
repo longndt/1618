@@ -1,0 +1,10 @@
+D:\workspace\FGW-1618\1618-re-fa24\Lesson07\QuanLyNhanVien\bin\Release\StaffManagement.exe.config
+D:\workspace\FGW-1618\1618-re-fa24\Lesson07\QuanLyNhanVien\bin\Release\StaffManagement.exe
+D:\workspace\FGW-1618\1618-re-fa24\Lesson07\QuanLyNhanVien\bin\Release\StaffManagement.pdb
+D:\workspace\FGW-1618\1618-re-fa24\Lesson07\QuanLyNhanVien\obj\Release\QuanLyNhanVien.csproj.AssemblyReference.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson07\QuanLyNhanVien\obj\Release\StaffManagement.Properties.Resources.resources
+D:\workspace\FGW-1618\1618-re-fa24\Lesson07\QuanLyNhanVien\obj\Release\Test.formQuanLy.resources
+D:\workspace\FGW-1618\1618-re-fa24\Lesson07\QuanLyNhanVien\obj\Release\QuanLyNhanVien.csproj.GenerateResource.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson07\QuanLyNhanVien\obj\Release\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-1618\1618-re-fa24\Lesson07\QuanLyNhanVien\obj\Release\StaffManagement.exe
+D:\workspace\FGW-1618\1618-re-fa24\Lesson07\QuanLyNhanVien\obj\Release\StaffManagement.pdb

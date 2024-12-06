@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp3\\WinFormApp2.csproj",
-      "projectName": "WinFormApp2",
-      "projectPath": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp3\\WinFormApp2.csproj",
+      "projectUniqueName": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp3\\WinFormApp3.csproj",
+      "projectName": "WinFormApp3",
+      "projectPath": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp3\\WinFormApp3.csproj",
       "packagesPath": "C:\\Users\\longn\\.nuget\\packages\\",
       "outputPath": "D:\\workspace\\FGW-1618\\1618\\WinFormApp\\WinFormApp3\\obj\\",
       "projectStyle": "PackageReference",

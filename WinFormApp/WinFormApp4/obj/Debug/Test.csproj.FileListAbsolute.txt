@@ -1,0 +1,11 @@
+D:\workspace\FGW-7388\7388-gch1108\Labs\Test\bin\Debug\Test.exe.config
+D:\workspace\FGW-7388\7388-gch1108\Labs\Test\bin\Debug\Test.exe
+D:\workspace\FGW-7388\7388-gch1108\Labs\Test\bin\Debug\Test.pdb
+D:\workspace\FGW-7388\7388-gch1108\Labs\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\workspace\FGW-7388\7388-gch1108\Labs\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+D:\workspace\FGW-7388\7388-gch1108\Labs\Test\obj\Debug\Test.Form1.resources
+D:\workspace\FGW-7388\7388-gch1108\Labs\Test\obj\Debug\Test.Properties.Resources.resources
+D:\workspace\FGW-7388\7388-gch1108\Labs\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\workspace\FGW-7388\7388-gch1108\Labs\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-7388\7388-gch1108\Labs\Test\obj\Debug\Test.exe
+D:\workspace\FGW-7388\7388-gch1108\Labs\Test\obj\Debug\Test.pdb

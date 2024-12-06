@@ -1,42 +1,81 @@
-namespace WinFormApp1
+namespace WinFormsApp2
 {
     public partial class Form1 : Form
     {
         public Form1()
         {
-            //intialize form
             InitializeComponent();
 
-            //show welcome message
-            MessageBox.Show("Welcome to my Winform app !");
+            //cleart text for label result when startup form
+            lblResult.Text = "";
         }
 
-        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        private void btnAdd_Click(object sender, EventArgs e)
         {
-            try
-            {
-                //set web link
-                string link = "https://greenwich.edu.vn/en/english/";
+            //get values from 2 numeric up down 
+            int x = (int)numX.Value;
+            int y = (int)numY.Value;
 
-                //open website
-                System.Diagnostics.Process.Start(link);
-            }
-            catch (Exception ex)
-            {
-                //show popup error
-                MessageBox.Show("Link can not be opened !");
-            }
+            ///calculate result
+            int result = x + y;
 
+            //show result value to label result
+            lblResult.Text = result.ToString();
         }
 
-        private void linkLabel1_MouseHover(object sender, EventArgs e)
+        private void btnSubtract_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Greenwich Vietnam is an international alliance between the University of Greenwich, United Kingdom, and FPT University, Vietnam. Established in 2009, it has had a global network of thousands of students and alumni from many countries in the world.");
+            //get values from 2 numeric up down 
+            int x = (int)numX.Value;
+            int y = (int)numY.Value;
+
+            ///calculate result
+            int result = x - y;
+
+            //show result value to label result
+            lblResult.Text = result.ToString();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnMultiply_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Start the program !");
+            //get values from 2 numeric up down 
+            int x = (int)numX.Value;
+            int y = (int)numY.Value;
+
+            ///calculate result
+            int result = x * y;
+
+            //show result value to label result
+            lblResult.Text = result.ToString();
+        }
+
+        private void btnDivide_Click(object sender, EventArgs e)
+        {
+            //set initial value for result 
+            int result = 0;
+
+            //get values from 2 numeric up down 
+            int x = (int)numX.Value;
+            int y = (int)numY.Value;
+
+            //calculate result
+            //validate value "y" is equal to zero or not
+            if (y == 0)
+                MessageBox.Show("Y must be different from 0", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            else
+               result = x / y;
+
+            //show result value to label result
+            lblResult.Text = result.ToString();
+        }
+
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            //reset value to 0 for numeric up down
+            numX.Value = 0;
+            numY.Value = 0;
+            //reset value to empty for label
+            lblResult.Text = "";
         }
     }
 }

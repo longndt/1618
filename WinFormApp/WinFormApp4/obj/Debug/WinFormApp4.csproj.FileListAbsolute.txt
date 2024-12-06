@@ -1,0 +1,10 @@
+D:\workspace\FGW-1618\1618\WinFormApp\WinFormApp4\bin\Debug\StaffManagement.exe.config
+D:\workspace\FGW-1618\1618\WinFormApp\WinFormApp4\bin\Debug\StaffManagement.exe
+D:\workspace\FGW-1618\1618\WinFormApp\WinFormApp4\bin\Debug\StaffManagement.pdb
+D:\workspace\FGW-1618\1618\WinFormApp\WinFormApp4\obj\Debug\WinFormApp4.csproj.AssemblyReference.cache
+D:\workspace\FGW-1618\1618\WinFormApp\WinFormApp4\obj\Debug\StaffManagement.Properties.Resources.resources
+D:\workspace\FGW-1618\1618\WinFormApp\WinFormApp4\obj\Debug\Test.formQuanLy.resources
+D:\workspace\FGW-1618\1618\WinFormApp\WinFormApp4\obj\Debug\WinFormApp4.csproj.GenerateResource.cache
+D:\workspace\FGW-1618\1618\WinFormApp\WinFormApp4\obj\Debug\WinFormApp4.csproj.CoreCompileInputs.cache
+D:\workspace\FGW-1618\1618\WinFormApp\WinFormApp4\obj\Debug\StaffManagement.exe
+D:\workspace\FGW-1618\1618\WinFormApp\WinFormApp4\obj\Debug\StaffManagement.pdb

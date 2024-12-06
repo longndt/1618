@@ -1,4 +1,4 @@
-﻿namespace WinFormApp1
+﻿namespace WinFormsApp2
 {
     partial class Form1
     {
@@ -28,62 +28,151 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             label1 = new Label();
-            linkLabel1 = new LinkLabel();
-            button1 = new Button();
+            label2 = new Label();
+            numX = new NumericUpDown();
+            numY = new NumericUpDown();
+            lblResult = new Label();
+            btnAdd = new Button();
+            btnMultiply = new Button();
+            btnSubtract = new Button();
+            btnDivide = new Button();
+            btnClear = new Button();
+            ((System.ComponentModel.ISupportInitialize)numX).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numY).BeginInit();
             SuspendLayout();
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.BackColor = Color.White;
-            label1.Font = new Font("Lucida Bright", 24F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.ForeColor = Color.FromArgb(192, 0, 0);
-            label1.Location = new Point(612, 97);
+            label1.Font = new Font("Microsoft YaHei", 14F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.ForeColor = Color.Red;
+            label1.Location = new Point(27, 32);
             label1.Name = "label1";
-            label1.Size = new Size(307, 54);
+            label1.Size = new Size(121, 37);
             label1.TabIndex = 0;
-            label1.Text = "Welcome to";
+            label1.Text = "Input X";
             // 
-            // linkLabel1
+            // label2
             // 
-            linkLabel1.AutoSize = true;
-            linkLabel1.Font = new Font("Segoe UI", 14F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            linkLabel1.Location = new Point(631, 163);
-            linkLabel1.Name = "linkLabel1";
-            linkLabel1.Size = new Size(274, 38);
-            linkLabel1.TabIndex = 1;
-            linkLabel1.TabStop = true;
-            linkLabel1.Text = "Greenwich Vietnam";
-            linkLabel1.LinkClicked += linkLabel1_LinkClicked;
-            linkLabel1.MouseHover += linkLabel1_MouseHover;
+            label2.AutoSize = true;
+            label2.Font = new Font("Microsoft YaHei", 14F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label2.ForeColor = Color.Red;
+            label2.Location = new Point(29, 103);
+            label2.Name = "label2";
+            label2.Size = new Size(119, 37);
+            label2.TabIndex = 1;
+            label2.Text = "Input Y";
             // 
-            // button1
+            // numX
             // 
-            button1.BackgroundImage = (Image)resources.GetObject("button1.BackgroundImage");
-            button1.BackgroundImageLayout = ImageLayout.Stretch;
-            button1.Location = new Point(711, 298);
-            button1.Name = "button1";
-            button1.Size = new Size(102, 80);
-            button1.TabIndex = 2;
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            numX.Font = new Font("Segoe UI", 14F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            numX.Location = new Point(181, 32);
+            numX.Name = "numX";
+            numX.Size = new Size(95, 45);
+            numX.TabIndex = 2;
+            // 
+            // numY
+            // 
+            numY.Font = new Font("Segoe UI", 14F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            numY.Location = new Point(181, 103);
+            numY.Name = "numY";
+            numY.Size = new Size(95, 45);
+            numY.TabIndex = 3;
+            // 
+            // lblResult
+            // 
+            lblResult.AutoSize = true;
+            lblResult.BorderStyle = BorderStyle.Fixed3D;
+            lblResult.Font = new Font("Microsoft YaHei", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblResult.ForeColor = Color.FromArgb(0, 0, 192);
+            lblResult.Location = new Point(554, 97);
+            lblResult.Name = "lblResult";
+            lblResult.Size = new Size(135, 49);
+            lblResult.TabIndex = 5;
+            lblResult.Text = "Result";
+            // 
+            // btnAdd
+            // 
+            btnAdd.Font = new Font("Lucida Sans", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnAdd.ForeColor = Color.Purple;
+            btnAdd.Location = new Point(300, 32);
+            btnAdd.Name = "btnAdd";
+            btnAdd.Size = new Size(97, 45);
+            btnAdd.TabIndex = 6;
+            btnAdd.Text = "+";
+            btnAdd.UseVisualStyleBackColor = true;
+            btnAdd.Click += btnAdd_Click;
+            // 
+            // btnMultiply
+            // 
+            btnMultiply.Font = new Font("Lucida Sans", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnMultiply.ForeColor = Color.Purple;
+            btnMultiply.Location = new Point(300, 103);
+            btnMultiply.Name = "btnMultiply";
+            btnMultiply.Size = new Size(97, 45);
+            btnMultiply.TabIndex = 7;
+            btnMultiply.Text = "*";
+            btnMultiply.UseVisualStyleBackColor = true;
+            btnMultiply.Click += btnMultiply_Click;
+            // 
+            // btnSubtract
+            // 
+            btnSubtract.Font = new Font("Lucida Sans", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnSubtract.ForeColor = Color.Purple;
+            btnSubtract.Location = new Point(425, 32);
+            btnSubtract.Name = "btnSubtract";
+            btnSubtract.Size = new Size(95, 45);
+            btnSubtract.TabIndex = 8;
+            btnSubtract.Text = "-";
+            btnSubtract.UseVisualStyleBackColor = true;
+            btnSubtract.Click += btnSubtract_Click;
+            // 
+            // btnDivide
+            // 
+            btnDivide.Font = new Font("Lucida Sans", 14F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnDivide.ForeColor = Color.Purple;
+            btnDivide.Location = new Point(425, 101);
+            btnDivide.Name = "btnDivide";
+            btnDivide.Size = new Size(95, 45);
+            btnDivide.TabIndex = 9;
+            btnDivide.Text = "/";
+            btnDivide.UseVisualStyleBackColor = true;
+            btnDivide.Click += btnDivide_Click;
+            // 
+            // btnClear
+            // 
+            btnClear.BackColor = Color.Fuchsia;
+            btnClear.FlatStyle = FlatStyle.System;
+            btnClear.Font = new Font("Lucida Sans", 16F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnClear.ForeColor = Color.FromArgb(128, 64, 0);
+            btnClear.Location = new Point(554, 32);
+            btnClear.Name = "btnClear";
+            btnClear.Size = new Size(135, 45);
+            btnClear.TabIndex = 10;
+            btnClear.Text = "Clear";
+            btnClear.UseVisualStyleBackColor = false;
+            btnClear.Click += btnClear_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = SystemColors.GradientActiveCaption;
-            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
-            BackgroundImageLayout = ImageLayout.Center;
-            ClientSize = new Size(1135, 615);
-            Controls.Add(button1);
-            Controls.Add(linkLabel1);
+            ClientSize = new Size(816, 189);
+            Controls.Add(btnClear);
+            Controls.Add(btnDivide);
+            Controls.Add(btnSubtract);
+            Controls.Add(btnMultiply);
+            Controls.Add(btnAdd);
+            Controls.Add(lblResult);
+            Controls.Add(numY);
+            Controls.Add(numX);
+            Controls.Add(label2);
             Controls.Add(label1);
-            FormBorderStyle = FormBorderStyle.Fixed3D;
             Name = "Form1";
-            Text = "Demo WinForm";
+            Text = "Calculator";
+            ((System.ComponentModel.ISupportInitialize)numX).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numY).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -91,7 +180,14 @@
         #endregion
 
         private Label label1;
-        private LinkLabel linkLabel1;
-        private Button button1;
+        private Label label2;
+        private NumericUpDown numX;
+        private NumericUpDown numY;
+        private Label lblResult;
+        private Button btnAdd;
+        private Button btnMultiply;
+        private Button btnSubtract;
+        private Button btnDivide;
+        private Button btnClear;
     }
 }
